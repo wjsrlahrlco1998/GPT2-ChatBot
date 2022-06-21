@@ -13,3 +13,9 @@
   - KoGPT-2
   - KoGPT-3
   - streamlit
+
+
+
+- 파인튜닝
+  - KoBERT 파인튜닝
+  - KoGPT2 파인튜닝
