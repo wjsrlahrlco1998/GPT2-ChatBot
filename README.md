@@ -1,4 +1,4 @@
-# GPT3 응용 챗봇
+# GPT2 응용 챗봇
 
 
 
@@ -8,21 +8,23 @@
 
 
 
-- Skill
-  - KoBERT
-  - KoGPT-2
-  - KoGPT-3
-  - streamlit
+### :rocket:Skill
+
+- KoBERT
+- KoGPT-2
+- KoGPT-3
+- streamlit
 
 
 
-- 파인튜닝
-  - KoBERT 파인튜닝
-  - KoGPT2 파인튜닝
+### :train:파인튜닝
+
+- KoBERT 파인튜닝
+- KoGPT2 파인튜닝
 
 
 
-- 시연영상
+### :video_camera:시연영상
 
 ![세미프로젝트 시연영상_편집 - 1of5](https://user-images.githubusercontent.com/85821684/175801532-610bb108-3678-4d62-9050-0bbc219f70be.gif)
 
