@@ -24,5 +24,14 @@
 
 - 시연영상
 
-<iframe id='video' width="512" heights="256" src='/README.assets/chatbot_video.mp4'> </iframe>
+![세미프로젝트 시연영상_편집 - 1of5](https://user-images.githubusercontent.com/85821684/175801532-610bb108-3678-4d62-9050-0bbc219f70be.gif)
 
+![세미프로젝트 시연영상_편집 - 2of5](https://user-images.githubusercontent.com/85821684/175801563-11da434c-e39f-44ac-9a87-caa66a599b88.gif)
+
+
+
+![세미프로젝트 시연영상_편집 - 3of5](https://user-images.githubusercontent.com/85821684/175801566-c9afed9a-cd93-41d4-b2bb-b30cd82bccbd.gif)
+
+![세미프로젝트 시연영상_편집 - 4of5](https://user-images.githubusercontent.com/85821684/175801568-9ffa2721-b11a-4dea-8c17-6ac8a84f1f72.gif)
+
+![세미프로젝트 시연영상_편집 - 5of5](https://user-images.githubusercontent.com/85821684/175801570-9f186f9e-8b55-4877-955b-649792d60dbf.gif)
