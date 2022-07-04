@@ -12,7 +12,6 @@
 
 - KoBERT
 - KoGPT-2
-- KoGPT-3
 - streamlit
 
 
